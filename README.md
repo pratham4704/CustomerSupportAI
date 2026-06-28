@@ -285,6 +285,9 @@ Academic Project
 ![query5](../screenshots/query5.png)
 
 
+the screenshots are in screenshots folder
+
+
 ##Workflow diagram
                          +----------------------+
                          |   Customer Query     |
