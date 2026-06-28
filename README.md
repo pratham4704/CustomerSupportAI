@@ -10,6 +10,7 @@ The project is built using **LangGraph**, **Google Gemini API**, **LangChain**, 
 
 ---
 
+
 # Features
 
 * AI-powered customer support automation
@@ -278,11 +279,13 @@ AI-Powered Customer Support Automation System
 
 Academic Project
 
-![query1](../screenshots/query1.png)
-![query2](../screenshots/query2.png)
-![query3](../screenshots/query3.png)
-![query4](../screenshots/query4.png)
-![query5](../screenshots/query5.png)
+
+<img width="1877" height="765" alt="query1" src="https://github.com/user-attachments/assets/beb781e5-270e-42b4-a092-a3bfbc4ee0bb" />
+<img width="1907" height="727" alt="query2" src="https://github.com/user-attachments/assets/1772fea2-a7f5-46bd-ad3b-48c0c4692416" />
+<img width="1882" height="782" alt="query3" src="https://github.com/user-attachments/assets/83aadb7c-d656-4314-ad93-355d0e78a444" />
+<img width="1891" height="747" alt="query4" src="https://github.com/user-attachments/assets/1fe707c1-cf61-4fb6-8f7e-ff4a75e6772d" />
+<img width="1867" height="881" alt="query5" src="https://github.com/user-attachments/assets/26580c7c-5105-40b6-a7a5-d55a7cba9858" />
+
 
 
 the screenshots are in screenshots folder
